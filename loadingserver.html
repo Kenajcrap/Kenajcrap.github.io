@@ -16,13 +16,15 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	</head>
 	<body>
-		<section id="title" align=right>
-		<h1 align=right id="mapname">Map name</h1>
-		</section>
-		<script>
-		function GameDetails( servername, serverurl, mapname, maxplayers, steamid, gamemode ) {
-			document.getElementById("mapname").innerHTML = mapname
-		}
-		</script>
+		<div class="wrapper">
+			<section id="title" align=right>
+				<h1 align=right id="mapname">Map name</h1>
+			</section>
+			<script>
+			function GameDetails( servername, serverurl, mapname, maxplayers, steamid, gamemode ) {
+				document.getElementById("mapname").innerHTML = mapname
+			}
+			</script>
+		</div>
 	</body>
 </html>
