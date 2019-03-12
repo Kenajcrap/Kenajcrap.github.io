@@ -10,8 +10,8 @@ var overviewerConfig = {
                 0
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1552251033, 
-            "name": "Survival - Dia - 0", 
+            "last_rendertime": 1552350564, 
+            "name": "Survival - 0", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
@@ -32,52 +32,8 @@ var overviewerConfig = {
                 0
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1552251033, 
-            "name": "Survival - Dia - 90", 
-            "poititle": "Markers", 
-            "north_direction": 1, 
-            "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
-            "base": "", 
-            "imgextension": "png", 
-            "defaultZoom": 1, 
-            "world": "Survival", 
-            "maxZoom": 6, 
-            "path": "upper-right", 
-            "showlocationmarker": true
-        }, 
-        {
-            "spawn": [
-                0, 
-                17, 
-                0
-            ], 
-            "isOverlay": false, 
-            "last_rendertime": 1552251033, 
-            "name": "Survival - Dia - 180", 
-            "poititle": "Markers", 
-            "north_direction": 3, 
-            "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
-            "base": "", 
-            "imgextension": "png", 
-            "defaultZoom": 1, 
-            "world": "Survival", 
-            "maxZoom": 6, 
-            "path": "lower-left", 
-            "showlocationmarker": true
-        }, 
-        {
-            "spawn": [
-                0, 
-                17, 
-                0
-            ], 
-            "isOverlay": false, 
-            "last_rendertime": 1552251033, 
-            "name": "Survival - Dia - 270", 
+            "last_rendertime": 1552350564, 
+            "name": "Survival - 180", 
             "poititle": "Markers", 
             "north_direction": 2, 
             "minZoom": 0, 
@@ -89,6 +45,28 @@ var overviewerConfig = {
             "world": "Survival", 
             "maxZoom": 6, 
             "path": "lower-right", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                0, 
+                17, 
+                0
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1552350564, 
+            "name": "Survival - Minas", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 6, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Survival", 
+            "maxZoom": 6, 
+            "path": "caves", 
             "showlocationmarker": true
         }
     ], 
@@ -132,6 +110,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1552251748"
+        "cacheTag": "1552351057"
     }
 };
