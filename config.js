@@ -3,9 +3,9 @@ var CONFIG = {
     "Cidade_Principal": {
       "imageFormat": "png",
       "lastRendered": [
-        1552768855,
+        1552781175,
         0,
-        1552768855,
+        1552781175,
         0
       ],
       "maxZoom": 6,
