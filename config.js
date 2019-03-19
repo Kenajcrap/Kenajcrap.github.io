@@ -3,9 +3,9 @@ var CONFIG = {
     "Cidade_Principal": {
       "imageFormat": "png",
       "lastRendered": [
-        1552959712,
+        1553038936,
         0,
-        1552959712,
+        1553038936,
         0
       ],
       "maxZoom": 6,
@@ -28,7 +28,7 @@ var CONFIG = {
     "Mina_do_Kenaj": {
       "imageFormat": "png",
       "lastRendered": [
-        1552959712,
+        1553038936,
         0,
         0,
         0
