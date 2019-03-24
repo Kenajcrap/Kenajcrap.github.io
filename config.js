@@ -1,11 +1,17 @@
 var CONFIG = {
   "maps": {
     "Cidade_Principal": {
+      "defaultView": [
+        -21,
+        81,
+        64
+      ],
+      "defaultZoom": 5,
       "imageFormat": "png",
       "lastRendered": [
-        1553453549,
+        1553458439,
         0,
-        1553453549,
+        1553458439,
         0
       ],
       "maxZoom": 6,
