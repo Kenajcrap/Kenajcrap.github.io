@@ -9,9 +9,9 @@ var CONFIG = {
       "defaultZoom": 5,
       "imageFormat": "png",
       "lastRendered": [
-        1565659479,
+        1565666119,
         0,
-        1565659479,
+        1565666119,
         0
       ],
       "maxZoom": 6,
@@ -29,6 +29,30 @@ var CONFIG = {
       ],
       "world": "survival1",
       "worldName": "survival1",
+      "worldSeaLevel": 64
+    },
+    "Farms - Gelo": {
+      "imageFormat": "png",
+      "lastRendered": [
+        1565666119,
+        0,
+        0,
+        0
+      ],
+      "maxZoom": 5,
+      "name": "Farms - Gelo",
+      "renderView": "isometric",
+      "rotations": [
+        0
+      ],
+      "textureSize": 12,
+      "tileSetGroup": "survival3_isometric_t1",
+      "tileSize": [
+        384,
+        384
+      ],
+      "world": "survival3",
+      "worldName": "survival3",
       "worldSeaLevel": 64
     },
     "Mina_do_Kenaj": {
@@ -58,7 +82,8 @@ var CONFIG = {
   },
   "mapsOrder": [
     "Cidade_Principal",
-    "Mina_do_Kenaj"
+    "Mina_do_Kenaj",
+    "Farms - Gelo"
   ],
   "tileSetGroups": {
     "survival1_isometric_t1": {
@@ -89,6 +114,28 @@ var CONFIG = {
         [
           11,
           -9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "tileWidth": 1
+    },
+    "survival3_isometric_t1": {
+      "maxZoom": 5,
+      "tileOffsets": [
+        [
+          -128,
+          65
         ],
         [
           0,
