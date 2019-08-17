@@ -9,9 +9,9 @@ var CONFIG = {
       "defaultZoom": 5,
       "imageFormat": "png",
       "lastRendered": [
-        1565666119,
+        1566076534,
         0,
-        1565666119,
+        1566076534,
         0
       ],
       "maxZoom": 6,
@@ -34,7 +34,7 @@ var CONFIG = {
     "Farms - Gelo": {
       "imageFormat": "png",
       "lastRendered": [
-        1565666119,
+        1566076534,
         0,
         0,
         0
