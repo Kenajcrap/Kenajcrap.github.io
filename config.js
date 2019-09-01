@@ -9,9 +9,9 @@ var CONFIG = {
       "defaultZoom": 5,
       "imageFormat": "png",
       "lastRendered": [
-        1566712028,
+        1567368459,
         0,
-        1566712028,
+        1567368459,
         0
       ],
       "maxZoom": 6,
@@ -34,7 +34,7 @@ var CONFIG = {
     "Farms - Gelo": {
       "imageFormat": "png",
       "lastRendered": [
-        1566712028,
+        1567368459,
         0,
         0,
         0
@@ -58,7 +58,7 @@ var CONFIG = {
     "Mina_do_Kenaj": {
       "imageFormat": "png",
       "lastRendered": [
-        1566712028,
+        1567368459,
         0,
         0,
         0
