@@ -34,7 +34,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     },
   },
   {
-    "id" : "Portais do Nether",
+    "id" : "Portais_do_Nether",
     "name" : "Portais do Nether",
     "icon" : "Portal.png",
     "iconSize" : [30, 30],
@@ -49,7 +49,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     },
   },
   {
-    "id" : "Portais do End",
+    "id" : "Portais_do_End",
     "name" : "Portais do End",
     "icon" : "End_Portal.png",
     "iconSize" : [30, 30],
