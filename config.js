@@ -58,7 +58,7 @@ var CONFIG = {
     "Mina_do_Kenaj": {
       "imageFormat": "png",
       "lastRendered": [
-        1567369548,
+        1567369773,
         0,
         0,
         0
