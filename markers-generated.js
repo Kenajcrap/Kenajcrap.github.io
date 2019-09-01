@@ -18,4 +18,49 @@ MAPCRAFTER_MARKERS_GENERATED = [
       ],
     },
   },
+  {
+    "id" : "Farms",
+    "name" : "Farms",
+    "icon" : "Wheat.png",
+    "iconSize" : [30, 30],
+    "showDefault" : true,
+    "markers" : {
+      "survival1" : [
+      ],
+      "survival2" : [
+      ],
+      "survival3" : [
+      ],
+    },
+  },
+  {
+    "id" : "Portais do Nether",
+    "name" : "Portais do Nether",
+    "icon" : "Portal.png",
+    "iconSize" : [30, 30],
+    "showDefault" : true,
+    "markers" : {
+      "survival1" : [
+      ],
+      "survival2" : [
+      ],
+      "survival3" : [
+      ],
+    },
+  },
+  {
+    "id" : "Portais do End",
+    "name" : "Portais do End",
+    "icon" : "End_Portal.png",
+    "iconSize" : [30, 30],
+    "showDefault" : true,
+    "markers" : {
+      "survival1" : [
+      ],
+      "survival2" : [
+      ],
+      "survival3" : [
+      ],
+    },
+  },
 ];
