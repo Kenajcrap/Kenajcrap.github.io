@@ -7,14 +7,13 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "name" : "Casas",
     "icon" : "Red_Bed.png",
     "iconSize" : [30, 30],
-    "showDefault" : true,
+    "showDefault" : false,
     "markers" : {
       "survival1" : [
+        {"pos": [-17,16,64], "title": "teste2", "text": "teste2", },
         {"pos": [19,27,82], "title": "Casa do Kenaj", "text": "Casa do Kenaj", },
       ],
       "survival2" : [
-      ],
-      "survival3" : [
       ],
     },
   },
@@ -23,13 +22,11 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "name" : "Farms",
     "icon" : "Wheat.png",
     "iconSize" : [30, 30],
-    "showDefault" : true,
+    "showDefault" : false,
     "markers" : {
       "survival1" : [
       ],
       "survival2" : [
-      ],
-      "survival3" : [
       ],
     },
   },
@@ -38,13 +35,11 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "name" : "Portais do Nether",
     "icon" : "Portal.png",
     "iconSize" : [30, 30],
-    "showDefault" : true,
+    "showDefault" : false,
     "markers" : {
       "survival1" : [
       ],
       "survival2" : [
-      ],
-      "survival3" : [
       ],
     },
   },
@@ -53,13 +48,11 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "name" : "Portais do End",
     "icon" : "End_Portal.png",
     "iconSize" : [30, 30],
-    "showDefault" : true,
+    "showDefault" : false,
     "markers" : {
       "survival1" : [
       ],
       "survival2" : [
-      ],
-      "survival3" : [
       ],
     },
   },

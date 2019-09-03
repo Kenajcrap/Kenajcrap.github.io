@@ -9,9 +9,9 @@ var CONFIG = {
       "defaultZoom": 8,
       "imageFormat": "png",
       "lastRendered": [
-        1567479867,
+        1567523937,
         0,
-        1567479867,
+        1567523937,
         0
       ],
       "maxZoom": 10,
