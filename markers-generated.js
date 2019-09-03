@@ -56,4 +56,17 @@ MAPCRAFTER_MARKERS_GENERATED = [
       ],
     },
   },
+  {
+    "id" : "Pontos_Interessantes",
+    "name" : "Pontos Interessantes",
+    "icon" : "Camera.png",
+    "iconSize" : [30, 30],
+    "showDefault" : false,
+    "markers" : {
+      "survival1" : [
+      ],
+      "survival2" : [
+      ],
+    },
+  },
 ];
