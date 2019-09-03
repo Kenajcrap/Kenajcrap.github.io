@@ -10,8 +10,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : false,
     "markers" : {
       "survival1" : [
-        {"pos": [-17,16,64], "title": "teste2", "text": "teste2", },
-        {"pos": [19,27,82], "title": "Casa do Kenaj", "text": "Casa do Kenaj", },
+        {"pos": [19,27,82], "title": "Casa<br> do<br> Kenaj<br>", "text": "<h4><center><b>Casa<br> do<br> Kenaj<br><\/b><\/h4><br>19, 82, 27<\/center>", },
       ],
       "survival2" : [
       ],
@@ -38,6 +37,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : false,
     "markers" : {
       "survival1" : [
+        {"pos": [-17,8,69], "title": "Central<br> do<br> Nether<br>", "text": "<h4><center><b>Central<br> do<br> Nether<br><\/b><\/h4><br>-17, 69, 8<\/center>", },
       ],
       "survival2" : [
       ],
@@ -64,7 +64,6 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : false,
     "markers" : {
       "survival1" : [
-        {"pos": [-18,17,65], "title": "teste", "text": "teste", },
       ],
       "survival2" : [
       ],
