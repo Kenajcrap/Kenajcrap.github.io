@@ -6,7 +6,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "id" : "Casas",
     "name" : "Casas",
     "icon" : "Red_Bed.png",
-    "iconSize" : [30, 30],
+    "iconSize" : [41, 30],
     "showDefault" : false,
     "markers" : {
       "survival1" : [
@@ -47,7 +47,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "id" : "Portais_do_End",
     "name" : "Portais do End",
     "icon" : "End_Portal.png",
-    "iconSize" : [30, 30],
+    "iconSize" : [30, 49],
     "showDefault" : false,
     "markers" : {
       "survival1" : [
@@ -60,10 +60,11 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "id" : "Pontos_Interessantes",
     "name" : "Pontos Interessantes",
     "icon" : "Camera.png",
-    "iconSize" : [30, 30],
+    "iconSize" : [30, 72],
     "showDefault" : false,
     "markers" : {
       "survival1" : [
+        {"pos": [-18,17,65], "title": "teste", "text": "teste", },
       ],
       "survival2" : [
       ],
