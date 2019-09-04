@@ -24,8 +24,10 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : false,
     "markers" : {
       "survival1" : [
+        {"pos": [787,-278,11], "title": "Farm<br> de<br> Slime<br> do Kenaj", "text": "<h4><center><b>Farm<br> de<br> Slime<br> do Kenaj<\/b><\/h4><br>787, 11, -278<\/center>", },
       ],
       "survival2" : [
+        {"pos": [787,-278,11], "title": "Farm<br> de<br> Slime<br> do Kenaj", "text": "<h4><center><b>Farm<br> de<br> Slime<br> do Kenaj<\/b><\/h4><br>787, 11, -278<\/center>", },
       ],
     },
   },
@@ -64,6 +66,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "showDefault" : false,
     "markers" : {
       "survival1" : [
+        {"pos": [786,-271,63], "title": "Entrada<br> da Mina<br> do Kenaj<br>", "text": "<h4><center><b>Entrada<br> da Mina<br> do Kenaj<br><\/b><\/h4><br>786, 63, -271<\/center>", },
       ],
       "survival2" : [
       ],

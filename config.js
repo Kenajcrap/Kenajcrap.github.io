@@ -9,9 +9,9 @@ var CONFIG = {
       "defaultZoom": 8,
       "imageFormat": "png",
       "lastRendered": [
-        1567629857,
+        1567634405,
         0,
-        1567629857,
+        1567634405,
         0
       ],
       "maxZoom": 10,
@@ -34,7 +34,7 @@ var CONFIG = {
     "Mina_do_Kenaj": {
       "imageFormat": "png",
       "lastRendered": [
-        1567566468,
+        1567634405,
         0,
         0,
         0
